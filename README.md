@@ -7,7 +7,7 @@ Atlanta](http://openstacksummitmay2014atlanta.sched.org/event/d3db2188dfed4459f8
 ## Contents
 
 * the presentation
-    *   You can [view this online](http://arbrandes.github.io/hackingopenstackforpadawans/).
+    *   You can [view this online](http://hastexo.github.io/hackingopenstackforpadawans/).
         If you want to view it locally, after cloning this repository
         you will have to check out the
         [git submodules](http://git-scm.com/book/en/Git-Tools-Submodules)
